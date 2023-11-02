@@ -1,6 +1,6 @@
 # Athar Web
 
-Athar Web Web is a website template built using HTML, CSS, and JavaScript. It offers a modern and responsive design for various web applications and businesses.
+Athar Web is a website template built using HTML, CSS, and JavaScript. It offers a modern and responsive design for various web applications and businesses.
 
 ## Introduction
 
@@ -20,4 +20,4 @@ This project is a responsive website template designed for various purposes. It 
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/Athar-Web.git
+git clone https://github.com/Khanathar5/Athar-Web.git
